@@ -1,4 +1,12 @@
-👋 Hi there! I'm BackEnd/Server Developer using Java and Spring 
+👋 제 깃헙에 오신 모든 분들 안녕하세요!
+저는 Java/Spring을 사용하고 있는 백엔드/서버 개발자 김의진 입니다.
+의미 있고 큰 트래픽을 다루는 것과 클린코드에 관심이 많습니다.
+
+또한 코드에 대한 기능테스트를 힘들게 한 경험들로 꼭 TDD를 학습하여 적용하고 싶은 것과
+저의 로직에서 생성된 데이터들을 통해 인사이트를 얻도록 하는 것도 작은 저의 바램입니다.
+
+성장하지 않으면 도태된다는 생각으로 항상 자기계발에 힘쓰고 있으며, 훌륭한 개발실력과 인성을 겸비하여
+누구나 편히 다가와주는 능력있는 개발자가 되는 것이 저의 꿈입니다.
 
  **📚 Skills**  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>  
