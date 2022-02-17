@@ -18,3 +18,7 @@
  <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>  
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>  
   <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/>
+
+**🌏 Blog & Portfolio**
+Blog - https://velog.io/@kwj2435
+Notion - https://puddle-banana-a3e.notion.site/e49b11bd39184fe4ab7c7d6e9184a373
