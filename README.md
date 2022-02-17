@@ -1,5 +1,8 @@
-### Hi there 👋
 
+👋 Hi there! I'm BackEnd/Server Developer using Java and Spring 
+
+
+###Skills
 <!--
 **kwj2435/kwj2435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
