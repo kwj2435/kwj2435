@@ -11,6 +11,7 @@
 훌륭한 개발실력과 인성을 겸비하여 누구나 편히 다가와주는 능력있는 개발자가 되는 것이 저의 꿈입니다.👍
 
  **📚 Skills**  
+<img src ="https://img.shields.io/badge/-kotlin-blueviolet"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  
 <img src="https://img.shields.io/badge/My Sql-4479A1?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/> 
@@ -18,6 +19,3 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>  
   <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/>
 
-**🌏 Blog & Portfolio**  
-Blog - https://velog.io/@kwj2435  
-Notion - https://puddle-banana-a3e.notion.site/e49b11bd39184fe4ab7c7d6e9184a373
