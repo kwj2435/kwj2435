@@ -1,8 +1,5 @@
 👋 Hi, There! Welcome to My Github ~ !  
 
-제 깃헙에 오신 모든 분들 안녕하세요!  
-Kotlin/Spring을 사용하고 있는 백엔드 개발자 김의진 입니다.😀👍
-
  **📚 Skills**  
 <img src ="https://img.shields.io/badge/-kotlin-blueviolet"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>  
